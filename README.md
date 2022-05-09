@@ -1,6 +1,6 @@
 # Hi there, I'm Diana Smirnova 👋
 
-## I'm a UI/UX Product Designer Engineer/ Unity Game Developer/ C# / .Net !!
+## I'm a UI/UX Product Designer Engineer/UI/UX Designer/ Full Stack  Developer/ C# / .Net/ Golang
 
 - 🔭 Always looking for new opportunities.
 - 👯 Always open to new acquaintances!
