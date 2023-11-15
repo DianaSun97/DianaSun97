@@ -2,13 +2,6 @@
 
 ## I'm a UI/UX Product Designer Engineer/UI/UX Designer/ Full Stack  Developer/ C# / .Net/ Golang
 
-- 🔭 Always looking for new opportunities.
-- 👯 Always open to new acquaintances!
-- 🌱 Love to face challenges and opportunities for growth
-- 🥅 Doing great things with great people
--  🗣 Also interested  mobile and dekstop solutions and networking.
-- ⚡ Creative, energetic personality with excellent communication skill.
-- 😻 Free time I dedicate to my main hobbies – game art and traveling.
 
 ### Connect with me:
 
@@ -48,17 +41,7 @@
 
 ---
 
-###  💪 How can I help your project
 
-- [Designing (including game art), prototyping, implementing, and field testing hyper-casual games](https://www.linkedin.com/in/diana-smirnova-75b5b8150/)
-- [Building test frameworks.](https://www.linkedin.com/in/diana-smirnova-75b5b8150/)
-- [Responsible for development of logistics software. (C#, .NET, SQL, Git) ](https://www.linkedin.com/in/diana-smirnova-75b5b8150/)
-- [UI Preparation, Setup, Programming, Animation](https://www.linkedin.com/in/diana-smirnova-75b5b8150/)
-- [Game System Programming](https://www.linkedin.com/in/diana-smirnova-75b5b8150/)
-
-➡️ [more information...](https://www.linkedin.com/in/diana-smirnova-75b5b8150/)
-
----
 
 
 <details>
