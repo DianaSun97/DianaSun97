@@ -1,6 +1,6 @@
 # Hi there, I'm Diana Smirnova 👋
 
-## I'm a UI/UX Product Designer Engineer/UI/UX Designer/ Full Stack  Developer/ C# / .Net/ Golang
+## I'm a UI/UX Product Designer Engineer/ C# / .Net/ Golang
 
 
 ### Connect with me:
